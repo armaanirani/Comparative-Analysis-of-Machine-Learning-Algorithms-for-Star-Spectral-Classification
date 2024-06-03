@@ -1,1 +1,3 @@
 # Comparative-Analysis-of-Machine-Learning-Algorithms-for-Star-Spectral-Classification
+
+Conducted a comprehensive comparative analysis of various machine learning algorithms, including a supervised model, an unsupervised model, a multi-layer perceptron (MLP) neural network, and a convolutional neural network (CNN), on a dataset of 240 stars with unbalanced spectral class distribution. Implemented and fine-tuned models to evaluate their performance, addressing challenges posed by the small and imbalanced dataset. Documented the methodology and findings in detailed reports, demonstrating proficiency in machine learning fundamentals and the ability to articulate technical insights effectively.
